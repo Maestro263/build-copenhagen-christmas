@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35465858.chunk.css",
+    "main.js": "/static/js/main.f9eaa5f2.chunk.js",
+    "main.js.map": "/static/js/main.f9eaa5f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b10aad5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b10aad5b.js.map",
+    "static/js/2.bd75ac00.chunk.js": "/static/js/2.bd75ac00.chunk.js",
+    "static/js/2.bd75ac00.chunk.js.map": "/static/js/2.bd75ac00.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.35465858.chunk.css.map": "/static/css/main.35465858.chunk.css.map",
+    "static/js/2.bd75ac00.chunk.js.LICENSE.txt": "/static/js/2.bd75ac00.chunk.js.LICENSE.txt",
+    "static/media/Julebillede.776797c8.jpeg": "/static/media/Julebillede.776797c8.jpeg",
+    "static/media/kcc_logo.0cd106ec.png": "/static/media/kcc_logo.0cd106ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b10aad5b.js",
+    "static/js/2.bd75ac00.chunk.js",
+    "static/css/main.35465858.chunk.css",
+    "static/js/main.f9eaa5f2.chunk.js"
+  ]
+}
